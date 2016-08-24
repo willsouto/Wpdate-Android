@@ -2,7 +2,7 @@
 
 
 
-Mobile App criado para uso pessoal, com foco em JSON possibilita consultar previsão do tempo, cotação do dolar, notícias na CNN, notícias no The New York Times, REDDIT/top e REDDIT/funny(imgs).<br/>
+Mobile App criado para uso pessoal, com foco em JSON possibilita consultar previsão do tempo, cotação do dólar, notícias na CNN, notícias no The New York Times, REDDIT/top e REDDIT/funny(imgs).<br/>
 Desenvolvido utilizando HTML, CSS, JavaScript, Apache Cordova, Ionic, Angular, bower e npm.<br/>
 Você pode instalar baixando o arquivo Wpdate.apk para o seu android. <br/>
 > Este repositório contém modificações específicas para o android, caso queira visualizar o app diretamente no browser utilize o repositório: https://github.com/willsouto/Wpdate-Main
